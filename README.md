@@ -4,14 +4,15 @@ Royal Rd. Morcellement St. Andre, Pamplemousses
 MAURITIUS
 (+230) 59157847
 saifsohomow@gmail.com
+https://github.com/saif-XI-Coderz
 ```
 
 ## SKILLS
 ### Technical Skills
 - Working knowledge of Javascript, PHP, HTML 5 and CSS 3
 - Have used MySQL, sqlLite, Oracle and PostgreSQL in projects
-- Frameworks/Librairies: Bootstrap, Angular, JQuery and other JS libraries
-- Have dabbled in NodeJS, TypeScript, VB.net, JAVA, C, C++, Python, Flash, Flex and Photoshop
+- Frameworks/Librairies: Bootstrap, AngularJS, Angular, JQuery and other JS libraries
+- Have dabbled in NodeJS, TypeScript, VB.net, JAVA, C, C#, C++, Python, Flash, Flex and Photoshop
 
 ### Soft skills
 - Good communicative, interpersonal and analytical skills
