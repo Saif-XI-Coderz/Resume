@@ -1,11 +1,10 @@
 # SOHOMOW Arib Saif-Ullah, *Software Engineer*
-<div style='text-align:right'>
-  Royal Rd. Morcellement St. Andre, Pamplemousses<br>
-  MAURITIUS<br>
-  (+230) 59157847<br>
-  saifsohomow@gmail.com<br>
-</div>
-<hr>
+```
+Royal Rd. Morcellement St. Andre, Pamplemousses
+MAURITIUS
+(+230) 59157847
+saifsohomow@gmail.com
+```
 
 ## SKILLS
 ### Technical Skills
@@ -39,8 +38,11 @@
 > **Subjects:** *Math, Add-Math, Physics, Computer Studies, Chemistry*
 
 ## WORK EXPERIENCE
-#### [2014 - Present] - SOFTWARE ENGINEER
-> **@HDM LTD**
+#### [2018 - Present] - ServiceNow Level 2 Support
+> **@Orange Business Services**, Ebene
+
+#### [2014 - 2018] - SOFTWARE ENGINEER [Full-Stack: AngularJS, PHP, Oracle/PostgresSQL]
+> **@HDM LTD**, Port-Louis
 
 #### [2010] - ASSISTANT COMPUTER TECHNICIAN
 > **@PERFECT COMPUTERS**, Royal Road,  Triolet - *During School Holidays*
