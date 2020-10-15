@@ -11,7 +11,7 @@ https://github.com/saif-XI-Coderz
 ### Technical Skills
 - Working knowledge of Javascript, PHP, HTML 5 and CSS 3
 - Have used MySQL, sqlLite, Oracle and PostgreSQL in projects
-- Frameworks/Librairies: Bootstrap, AngularJS, Angular, JQuery and other JS libraries
+- Frameworks/Librairies: Laravel, Vue.js, Bootstrap, AngularJS, Material Design.
 - Have dabbled in NodeJS, TypeScript, VB.net, JAVA, C, C#, C++, Python, Flash, Flex and Photoshop
 
 ### Soft skills
@@ -39,11 +39,14 @@ https://github.com/saif-XI-Coderz
 > **Subjects:** *Math, Add-Math, Physics, Computer Studies, Chemistry*
 
 ## WORK EXPERIENCE
-#### [2018 - Present] - ServiceNow Level 2 Support
-> **@Orange Business Services**, Ebene
+#### [2019 - Present] - Software Developer
+> **@Mauritius Telecom**, Mauritius
 
-#### [2014 - 2018] - SOFTWARE ENGINEER [Full-Stack: AngularJS, PHP, Oracle/PostgresSQL]
-> **@HDM LTD**, Port-Louis
+#### [2018 - 2019] - ServiceNow Level 2 Support
+> **@Orange Business Services**, Ebene Mauritius
+
+#### [2014 - 2018] - SOFTWARE ENGINEER [Full-Stack: AngularJS, Bootstrap, PHP, Oracle/PostgresSQL]
+> **@HDM LTD**, Port-Louis Mauritius
 
 #### [2010] - ASSISTANT COMPUTER TECHNICIAN
 > **@PERFECT COMPUTERS**, Royal Road,  Triolet - *During School Holidays*
